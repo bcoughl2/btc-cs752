@@ -1,1 +1,0 @@
-montageDefine("9276fa5","vendor/requirejs/tests/urlfetch/one",{dependencies:[],factory:function(){}});

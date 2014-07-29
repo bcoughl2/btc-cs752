@@ -1,1 +1,0 @@
-montageDefine("9276fa5","vendor/requirejs/tests/browsertests/scriptload/four",{dependencies:[],factory:function(){log("four.js script")}});

@@ -1,1 +1,0 @@
-montageDefine("0984c89","ui/version.reel/version",{dependencies:["montage/ui/component"],factory:function(e,t){var i=e("montage/ui/component").Component;t.Version=i.specialize({constructor:{value:function(){this.super()}},montageDescription:{get:function(){return montageRequire.packageDescription}}})}});

@@ -1,1 +1,0 @@
-montageDefine("9276fa5","vendor/requirejs/tests/browsertests/scriptloadinteractiveattach/three",{dependencies:[],factory:function(){def(function(){return{name:"three"}})}});

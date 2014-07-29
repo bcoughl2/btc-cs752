@@ -1,1 +1,0 @@
-montageDefine("d418305","ui/text.reel/text",{dependencies:["montage/ui/text.reel"],factory:function(e,t){var i=e("montage/ui/text.reel").Text;t.Text=i.specialize({hasTemplate:{value:!0},constructor:{value:function i(){this.super(),this.classList.add("digit-Text")}}})}});

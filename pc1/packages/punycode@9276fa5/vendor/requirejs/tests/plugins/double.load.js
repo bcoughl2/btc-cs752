@@ -1,1 +1,0 @@
-montageDefine("9276fa5","vendor/requirejs/tests/plugins/double",{dependencies:[],factory:function(){define({load:function(e,i,t){t("x")}})}});

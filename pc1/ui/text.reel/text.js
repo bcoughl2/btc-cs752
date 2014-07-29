@@ -1,1 +1,0 @@
-var Component=require("montage/ui/component").Component;exports.Text=Component.specialize({constructor:{value:function(){this.super()}}});

@@ -1,1 +1,0 @@
-montageDefine("0984c89","ui/text.reel/text",{dependencies:["montage/ui/component"],factory:function(e,t){var i=e("montage/ui/component").Component;t.Text=i.specialize({constructor:{value:function(){this.super()}}})}});

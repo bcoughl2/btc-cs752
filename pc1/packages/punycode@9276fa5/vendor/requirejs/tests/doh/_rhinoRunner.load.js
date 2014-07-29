@@ -1,1 +1,0 @@
-montageDefine("9276fa5","vendor/requirejs/tests/doh/_rhinoRunner",{dependencies:[],factory:function(){this.dojo&&dojo.provide("doh._rhinoRunner"),doh.debug=print,function(){var e=doh._report;doh._report=function(){e.apply(doh,arguments),(this._failureCount>0||this._errorCount>0)&&quit(1)}}()}});
