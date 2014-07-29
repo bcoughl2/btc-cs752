@@ -1,0 +1,1 @@
+montageDefine("9276fa5","vendor/requirejs/tests/circular/plugin",{dependencies:[],factory:function(){define({load:function(e,i,t){i([e],t)}})}});

@@ -1,0 +1,1 @@
+montageDefine("9276fa5","vendor/requirejs/tests/nestedDefine/two",{dependencies:[],factory:function(){define({name:"two"})}});

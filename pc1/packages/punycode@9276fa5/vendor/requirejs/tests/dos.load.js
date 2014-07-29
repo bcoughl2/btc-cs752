@@ -1,0 +1,1 @@
+montageDefine("9276fa5","vendor/requirejs/tests/dos",{dependencies:[],factory:function(){define("dos",["tres"],function(e){return{name:"dos",doSomething:function(){return{tresName:e.name}}}})}});

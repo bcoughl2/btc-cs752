@@ -1,0 +1,1 @@
+montageDefine("9276fa5","vendor/requirejs/tests/browsertests/vardefine/define",{dependencies:[],factory:function(){}});

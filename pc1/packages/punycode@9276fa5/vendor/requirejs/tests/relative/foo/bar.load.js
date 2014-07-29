@@ -1,0 +1,1 @@
+montageDefine("9276fa5","vendor/requirejs/tests/relative/foo/bar",{dependencies:[],factory:function(){define({name:"bar"})}});

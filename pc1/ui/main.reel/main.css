@@ -1,0 +1,57 @@
+.scene {
+		height: 450px;
+		width: 1200px;
+		background: hsl(0, 0%, 0%);
+		-webkit-backface-visibility: hidden;
+}
+
+.all_moving_parts {
+  transition-property: transform;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+}
+
+.blade {
+  transform-origin: 90% 0%;
+}
+
+.can_opener {
+  transform-origin: 62% 0%;
+}
+
+.blade-openL {
+  transform: rotateY(160deg);
+}
+
+.awl {
+  transform-origin: 70% 0%;
+}
+
+.awl-open {
+  transform: rotateY(-80deg);
+}
+
+.bottle {
+  transform-origin: 10% 0%;
+}
+
+.bottle-openR {
+  transform: rotateY(-160deg);
+}
+
+.blade-openR {
+  transform: rotateY(-160deg);
+}
+
+.blade-close {
+  transform-origin: 90% 0%;
+}
+
+.tweezer-slide {
+  transform: translate3d(-600, 0, -50);
+}
+
+
+
+
+

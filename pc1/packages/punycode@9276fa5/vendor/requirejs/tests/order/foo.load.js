@@ -1,0 +1,1 @@
+montageDefine("9276fa5","vendor/requirejs/tests/order/foo",{dependencies:[],factory:function(){define(["require","order!one.js","order!two","order!three.js"])}});
