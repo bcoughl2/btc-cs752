@@ -1,0 +1,1 @@
+montageDefine("9276fa5","vendor/requirejs/tests/circular/complexPlugin/viewport.html",{text:"<html><head></head><body>viewportTemplate</body></html>"});

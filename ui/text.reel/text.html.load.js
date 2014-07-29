@@ -1,0 +1,1 @@
+montageDefine("0984c89","ui/text.reel/text.html",{text:'<!DOCTYPE html><html><head>\n    <title></title>\n    <link rel=stylesheet type=text/css href=text.css>\n    <script type=text/montage-serialization>{"owner":{"properties":{"element":{"#":"owner"}}}}</script>\n</head>\n<body>\n    <div data-montage-id=owner class=Text>\n    </div>\n\n\n</body></html>'});

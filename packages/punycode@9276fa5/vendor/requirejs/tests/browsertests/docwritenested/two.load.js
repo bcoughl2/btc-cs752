@@ -1,0 +1,1 @@
+montageDefine("9276fa5","vendor/requirejs/tests/browsertests/docwritenested/two",{dependencies:[],factory:function(){two={name:"two"}}});

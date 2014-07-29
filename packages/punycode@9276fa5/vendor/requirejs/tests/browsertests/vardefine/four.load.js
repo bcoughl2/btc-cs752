@@ -1,0 +1,1 @@
+montageDefine("9276fa5","vendor/requirejs/tests/browsertests/vardefine/four",{dependencies:[],factory:function(){(function(){function e(e){log("STILL GOOD, inner define: "+e)}if("function"!=typeof e)var e=window.badDefine;e("four.js script")})()}});

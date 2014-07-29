@@ -1,0 +1,1 @@
+montageDefine("9276fa5","vendor/requirejs/tests/packages/optimizing/packages/fuel/main",{dependencies:[],factory:function(){define({name:"fuel"})}});

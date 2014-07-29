@@ -1,0 +1,1 @@
+montageDefine("9276fa5","vendor/requirejs/tests/packages/pkgs/alpha/replace",{dependencies:[],factory:function(){define({name:"alpha/replace"})}});

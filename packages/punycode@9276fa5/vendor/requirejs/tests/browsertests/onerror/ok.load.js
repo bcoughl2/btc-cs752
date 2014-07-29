@@ -1,0 +1,1 @@
+montageDefine("9276fa5","vendor/requirejs/tests/browsertests/onerror/ok",{dependencies:[],factory:function(){log("ok has executed")}});

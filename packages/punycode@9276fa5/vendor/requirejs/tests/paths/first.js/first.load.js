@@ -1,0 +1,1 @@
+montageDefine("9276fa5","vendor/requirejs/tests/paths/first.js/first",{dependencies:[],factory:function(){globalCounter+=1,define(["./second"],function(e){return globalCounter+=1,{load:e}})}});

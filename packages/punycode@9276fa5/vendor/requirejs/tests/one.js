@@ -1,0 +1,1 @@
+define("one",["require","two"],function(e){var i={size:"large",doSomething:function(){return e("two")}};return i});
