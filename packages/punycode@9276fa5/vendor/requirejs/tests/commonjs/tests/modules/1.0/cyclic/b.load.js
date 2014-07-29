@@ -1,1 +1,0 @@
-montageDefine("9276fa5","vendor/requirejs/tests/commonjs/tests/modules/1.0/cyclic/b",{dependencies:["a"],factory:function(){define(["require","exports","module","a"],function(e,i){var t=e("a");i.b=function(){return t}})}});

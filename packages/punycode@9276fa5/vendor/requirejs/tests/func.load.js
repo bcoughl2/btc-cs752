@@ -1,1 +1,0 @@
-montageDefine("9276fa5","vendor/requirejs/tests/func",{dependencies:[],factory:function(){define("func",function(){return function(){return"You called a function"}})}});

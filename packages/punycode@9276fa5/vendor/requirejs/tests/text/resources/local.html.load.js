@@ -1,1 +1,0 @@
-montageDefine("9276fa5","vendor/requirejs/tests/text/resources/local.html",{text:"<html><head></head><body><h1>Local</h1></body></html>"});

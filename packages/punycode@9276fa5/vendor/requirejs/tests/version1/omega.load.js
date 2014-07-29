@@ -1,1 +1,0 @@
-montageDefine("9276fa5","vendor/requirejs/tests/version1/omega",{dependencies:[],factory:function(){define("omega",function(){return{version:1}})}});

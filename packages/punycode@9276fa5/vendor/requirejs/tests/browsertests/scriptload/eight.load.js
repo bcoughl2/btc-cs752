@@ -1,1 +1,0 @@
-montageDefine("9276fa5","vendor/requirejs/tests/browsertests/scriptload/eight",{dependencies:[],factory:function(){log("eight.js script")}});

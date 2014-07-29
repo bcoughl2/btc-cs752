@@ -1,1 +1,0 @@
-montageDefine("9276fa5","vendor/requirejs/tests/priority/one",{dependencies:[],factory:function(){define("alpha",["beta","gamma"],function(e){return{name:"alpha",betaName:e.name}}),define("beta",["gamma"],function(e){return{name:"beta",gammaName:e.name}})}});

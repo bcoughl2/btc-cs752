@@ -1,1 +1,19 @@
-montageDefine("9804a56","ui/scene-view.reel/scene-view",{dependencies:["montage/ui/component"],factory:function(e,t){var i=e("montage/ui/component").Component;t.SceneView=i.specialize({constructor:{value:function(){this.super()}}})}});
+montageDefine("a5f257c","ui/scene-view.reel/scene-view",{dependencies:["montage/ui/component"],factory:function(require,exports,module){/**
+ * @module ui/scene-view.reel
+ * @requires montage/ui/component
+ */
+var Component = require("montage/ui/component").Component;
+
+/**
+ * @class SceneView
+ * @extends Component
+ */
+exports.SceneView = Component.specialize(/** @lends SceneView# */ {
+    constructor: {
+        value: function SceneView() {
+            this.super();
+        }
+    }
+});
+
+}})

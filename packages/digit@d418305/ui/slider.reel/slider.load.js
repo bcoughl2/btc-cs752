@@ -1,1 +1,0 @@
-montageDefine("d418305","ui/slider.reel/slider",{dependencies:["montage/ui/base/abstract-slider"],factory:function(e,t){var i=e("montage/ui/base/abstract-slider").AbstractSlider;t.Slider=i.specialize({constructor:{value:function(){this.super()}}})}});

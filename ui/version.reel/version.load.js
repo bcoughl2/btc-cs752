@@ -1,1 +1,25 @@
-montageDefine("9804a56","ui/version.reel/version",{dependencies:["montage/ui/component"],factory:function(e,t){var i=e("montage/ui/component").Component;t.Version=i.specialize({constructor:{value:function(){this.super()}},montageDescription:{get:function(){return montageRequire.packageDescription}}})}});
+montageDefine("a5f257c","ui/version.reel/version",{dependencies:["montage/ui/component"],factory:function(require,exports,module){/**
+ * @module ui/version.reel
+ * @requires montage/ui/component
+ */
+var Component = require("montage/ui/component").Component;
+
+/**
+ * @class Version
+ * @extends Component
+ */
+exports.Version = Component.specialize(/** @lends Version# */ {
+    constructor: {
+        value: function Version() {
+            this.super();
+        }
+    },
+
+    montageDescription: {
+        get: function() {
+            return montageRequire.packageDescription;
+        }
+    }
+});
+
+}})

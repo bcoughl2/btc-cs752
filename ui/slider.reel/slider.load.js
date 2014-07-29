@@ -1,1 +1,19 @@
-montageDefine("9804a56","ui/slider.reel/slider",{dependencies:["montage/ui/component"],factory:function(e,t){var i=e("montage/ui/component").Component;t.Slider=i.specialize({constructor:{value:function(){this.super()}}})}});
+montageDefine("a5f257c","ui/slider.reel/slider",{dependencies:["montage/ui/component"],factory:function(require,exports,module){/**
+ * @module ui/slider.reel
+ * @requires montage/ui/component
+ */
+var Component = require("montage/ui/component").Component;
+
+/**
+ * @class Slider
+ * @extends Component
+ */
+exports.Slider = Component.specialize(/** @lends Slider# */ {
+    constructor: {
+        value: function Slider() {
+            this.super();
+        }
+    }
+});
+
+}})

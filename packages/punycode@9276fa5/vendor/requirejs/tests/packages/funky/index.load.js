@@ -1,1 +1,0 @@
-montageDefine("9276fa5","vendor/requirejs/tests/packages/funky/index",{dependencies:[],factory:function(){define(["./lib/monkey"],function(e){return{name:"funky",monkeyName:e.name}})}});

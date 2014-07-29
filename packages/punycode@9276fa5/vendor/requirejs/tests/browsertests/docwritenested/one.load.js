@@ -1,1 +1,0 @@
-montageDefine("9276fa5","vendor/requirejs/tests/browsertests/docwritenested/one",{dependencies:[],factory:function(){loadScript("two.js"),one={name:"one"},console.log("Two's name is: "+two.name)}});

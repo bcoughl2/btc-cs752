@@ -1,1 +1,0 @@
-montageDefine("9276fa5","vendor/requirejs/tests/order/bar",{dependencies:[],factory:function(){var e=0;define(function(){return e+=1,function(){e+=2}})}});

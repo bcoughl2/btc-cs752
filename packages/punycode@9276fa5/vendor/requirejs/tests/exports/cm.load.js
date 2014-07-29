@@ -1,1 +1,0 @@
-montageDefine("9276fa5","vendor/requirejs/tests/exports/cm",{dependencies:[],factory:function(){define(["module","exports"],function(e,i){i.name="cm"})}});

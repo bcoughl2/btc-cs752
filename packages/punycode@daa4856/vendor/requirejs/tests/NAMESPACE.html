@@ -1,0 +1,31 @@
+<!DOCTYPE html><html><head>
+    <title>require.js: NAMESPACE Test</title>
+    <script src=NAMESPACE.js></script>
+    <script src=doh/runner.js></script>
+    <script src=doh/_browserRunner.js></script>
+    <script>
+        NAMESPACE.require(['one', 'dimple'], function(one, dimple) {
+            doh.register(
+                        "namespaceTest",
+                        [
+                            function namespaceTest(t){
+                                t.is("large", one.size);
+                                t.is("dimple-blue", dimple.color);
+                            }
+                        ]
+                    );
+            doh.run();
+
+        });
+    </script>
+</head>
+<body>
+    <h1>require.js: NAMESPACE Test</h1>
+
+    <p>Only works after doing a build using the simpleNamespace.build.js file
+    in the r.js project.</p>
+
+    <p>Check console for messages</p>
+
+
+</body></html>
