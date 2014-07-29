@@ -1,8 +1,27 @@
+@page { margin: 40pt 30pt 40pt 30pt }
+
+h2 { padding-left:5% }
+
+.MontageMade {
+	position: absolute;
+	top: 0;
+	left: 25px;
+	width: 50px;
+	height: 100px;
+	overflow: hidden;
+	font-size: 0;
+	color: transparent;
+	background: url(http://montagestudio.com/demos/popcorn/assets/image/montage-made.svg) no-repeat center;
+	background-size: 100% auto;
+}
+
 .scene {
-		height: 450px;
-		width: 1200px;
+		width: 90%;
+		height:33vw;
 		background: hsl(0, 0%, 0%);
 		-webkit-backface-visibility: hidden;
+    	margin-left: auto;
+    	margin-right: auto;
 }
 
 .all_moving_parts {
@@ -50,8 +69,3 @@
 .tweezer-slide {
   transform: translate3d(-600, 0, -50);
 }
-
-
-
-
-
