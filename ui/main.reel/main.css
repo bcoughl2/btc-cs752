@@ -15,6 +15,12 @@ h2 { padding-left:5% }
 	background-size: 100% auto;
 }
 
+.View-canvas {
+    width:90vw;
+    height:33vw; /* Fix for Safari -> removes bottom gap */
+}
+
+
 .scene {
 		width: 90%;
 		height:33vw;
