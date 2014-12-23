@@ -16,14 +16,14 @@ h2 { padding-left:5% }
 }
 
 .View-canvas {
-    width:90vw;
+    width:92vw;
     height:33vw; /* Fix for Safari */
-    align-self: center; /* Fix for OSX Safari */
+    
 }
 
 
 .scene {
-		width: 90%;
+		width: 92%;
 		height:33vw;
 		background: hsl(0, 0%, 0%);
 		-webkit-backface-visibility: hidden;
