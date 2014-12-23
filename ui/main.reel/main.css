@@ -18,6 +18,8 @@ h2 { padding-left:5% }
 .View-canvas {
     width:90vw;
     height:33vw; /* Fix for Safari */
+    justify-content: center; /* Fix for OSX Safari */
+    align-self: center; /* Fix for OSX Safari */
 }
 
 
