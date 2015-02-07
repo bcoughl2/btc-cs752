@@ -17,7 +17,7 @@ h2 { padding-left:5% }
 
 .View-canvas {
     width:92vw;
-    height:33vw; /* Fix for Safari */
+    height:33vw; /* Fix for Safari -  */
     
 }
 
